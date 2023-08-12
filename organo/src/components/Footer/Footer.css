@@ -1,0 +1,27 @@
+.page-footer {
+    background-color: #6278F7;
+    background-image: url(../../../public/images/fundo.png);
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 233px;
+}
+
+.page-footer .social-media {
+    display: flex;
+    width: 162px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.page-footer .social-media img {
+    width: 25px;
+}
+
+.page-footer .logo img {
+    width: 166px;
+}
+
+.page-footer .developed-by h4 {
+    color: #fff;
+}
